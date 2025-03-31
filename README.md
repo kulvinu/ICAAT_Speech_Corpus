@@ -42,8 +42,7 @@ If you use this dataset, please cite:
 }
 ```
 ## License
-[Specify the license under which the dataset is shared, e.g., MIT, CC-BY-SA, etc.]
 
 ## Contact
 For questions, issues, or contributions, please open an issue in this repository:  
-[GitHub Issues](https://github.com/your-username/your-repository/issues)
+[GitHub Issues](https://github.com/kulvinu/ICAAT_Speech_Corpus/issues)
