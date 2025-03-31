@@ -14,11 +14,11 @@ The Sinhala Digits Speech Corpus is an attempt to create a speech corpus for Sin
 The dataset is structured as follows:
 ```
 root/
-│── speaker_001/
+│── Children_Dataset/
 │   ├── 0.wav
 │   ├── 1.wav
 │   ├── ...
-│── speaker_002/
+│── Sinhala_Recordings/
 │   ├── 0.wav
 │   ├── 1.wav
 │   ├── ...
